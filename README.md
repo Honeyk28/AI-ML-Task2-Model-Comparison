@@ -23,3 +23,12 @@ This project was completed as part of my AI/ML Internship at Maincrafts Technolo
 - NumPy
 - Scikit-Learn
 - Matplotlib
+
+## Best Model Saving
+
+The best-performing model was identified based on R² Score and saved using Joblib.
+
+Saved File:
+- best_model.pkl
+
+This model can be loaded later for prediction without retraining
